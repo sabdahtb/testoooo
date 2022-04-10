@@ -4,5 +4,5 @@
 -Game
 -Anime
 -Olahraga
--Sholat
 -Ngaji
+-Sholat
